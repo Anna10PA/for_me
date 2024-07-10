@@ -1,4 +1,4 @@
-#exp 1
+
 # three circles and a square.
 
 import turtle
