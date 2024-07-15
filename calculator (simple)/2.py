@@ -1,4 +1,3 @@
-
 #calculator 
 
 number_1=float(input("please enter first number: "))
