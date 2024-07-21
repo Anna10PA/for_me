@@ -87,7 +87,7 @@ for i in range(30):
         print(dice_outcome)
         print("step will be ")
         print(30*dice_outcome)
-        a.forward(20*dice_outcome)
+        a.forward(30*dice_outcome)
 
         b_turn=input("Player_2 press enter to role dice")    
         dice_outcome = random.choice(dice)
@@ -95,6 +95,6 @@ for i in range(30):
         print(dice_outcome)
         print("step will be ")
         print(30*dice_outcome)
-        b.forward(20*dice_outcome)
+        b.forward(30*dice_outcome)
 
 turtle.done()
