@@ -2,7 +2,7 @@ from turtle import*
 
 bgcolor("black")
 width(2)
-speed(10)
+speed(100)
 
 # squares
 
