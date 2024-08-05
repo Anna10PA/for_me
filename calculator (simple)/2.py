@@ -32,5 +32,6 @@ elif operation=="//":
 elif operation=="%":
     result = number_1 % number_2
     print(result)
-
+else:
+    print("ERROR")
 # end
